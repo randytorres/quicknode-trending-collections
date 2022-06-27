@@ -4,7 +4,7 @@
   <a href="https://trending-nft-collections.vercel.app/">View Deployed App</a>
 </h1>
 
-Displays trending NFT collections using [Quicknode API](https://www.quicknode.com) built with React and Typescript. Bootstrapped with [Nextjs](https://nextjs.org/).
+Displays trending NFT collections using [Icy Tools API](https://developers.icy.tools/) built with React and Typescript. Bootstrapped with [Nextjs](https://nextjs.org/).
 ### Features Implemented
 - [x] Visual login status
 - [x] Connect to wallet
@@ -16,7 +16,7 @@ Displays trending NFT collections using [Quicknode API](https://www.quicknode.co
 - [Nextjs](https://nextjs.org/)
 - [Material Table](https://material-table.com/)
 - [Apollo Client](https://www.apollographql.com/docs/react/get-started)
-- [Quicknode](https://www.quicknode.com/)
+- [Icy Tools API](https://developers.icy.tools/)
 
 # Getting Started
 To get a the project up and running in development mode, please follow these simple steps.
@@ -26,7 +26,7 @@ To get a the project up and running in development mode, please follow these sim
 - [Github](https://github.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
-- [Quicknode API Key](https://www.quicknode.com)
+- [Icy Tools API Key](https://www.quicknode.com)
 
 ## Installation
 
@@ -34,7 +34,7 @@ To get a the project up and running in development mode, please follow these sim
 git clone git@github.com:randytorres/quicknode-trending-collections.git
 ```
 
-Copy `.env.example` to `.env` and add your Quicknode API Key.
+Copy `.env.example` to `.env` and add your Icy Tools API Key.
 
 Go to the root of your folder and run this command.
 

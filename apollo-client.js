@@ -1,9 +1,9 @@
 import { ApolloClient, InMemoryCache } from '@apollo/client'
 
 export const client = new ApolloClient({
-    uri: process.env.NEXT_PUBLIC_QUICKNODE_API_URL,
+    uri: process.env.NEXT_PUBLIC_ICYTOOLS_API_URL,
     cache: new InMemoryCache(),
     headers: {
-      'x-api-key': process.env.NEXT_PUBLIC_QUICKNODE_API_KEY,
+      'x-api-key': process.env.NEXT_PUBLIC_ICYTOOLS_API_KEY,
     }
 })
