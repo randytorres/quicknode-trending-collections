@@ -34,14 +34,12 @@ interface TrendingCollectionsProps {
 
 export const TrendingCollections = (props: TrendingCollectionsProps) => {
   return (
-    <div>
-      <div className="pt-10">
-        <MaterialTable
-          title="Trending Collections"
-          data={props.collections}
-          columns={columnConfig}
-        />
-      </div>
+    <div className="pt-10">
+      <MaterialTable
+        title="Trending Collections"
+        data={props.collections}
+        columns={columnConfig}
+      />
     </div>
   )
 }
