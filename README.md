@@ -1,7 +1,7 @@
 # Trending NFT Collections
 
 <h1 align="center">
-  <a href="https://react-kanban-torresr14.vercel.app/">View Deployed App</a>
+  <a href="https://trending-nft-collections.vercel.app/">View Deployed App</a>
 </h1>
 
 Displays trending NFT collections using [Quicknode API](https://www.quicknode.com) built with React and Typescript. Bootstrapped with [Nextjs](https://nextjs.org/).
@@ -26,6 +26,7 @@ To get a the project up and running in development mode, please follow these sim
 - [Github](https://github.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
+- [Quicknode API Key](https://www.quicknode.com)
 
 ## Installation
 
