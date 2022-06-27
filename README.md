@@ -34,6 +34,8 @@ To get a the project up and running in development mode, please follow these sim
 git clone git@github.com:randytorres/quicknode-trending-collections.git
 ```
 
+Copy `.env.example` to `.env` and add your Quicknode API Key.
+
 Go to the root of your folder and run this command.
 
 ```
